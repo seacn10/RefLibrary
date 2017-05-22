@@ -5,7 +5,7 @@
 演示了vs环境配置静态库和动态库的方法（/MD、/MT）
 
 #. 动态库调试版，依赖支持库
-	目标文件名：RefLibraryD
+        目标文件名：RefLibraryD
 	配置管理器：debug 		
 	运行库：	MDd
 	配置类型:	动态库(.dll)
